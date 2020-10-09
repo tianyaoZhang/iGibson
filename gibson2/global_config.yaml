@@ -1,2 +1,2 @@
-assets_path: assets # put either absolute path or relative to current directory
-dataset_path: dataset
+assets_path: /media/tyZhang/zty_Passport/Data/Gibson/assets # put either absolute path or relative to current directory
+dataset_path: /media/tyZhang/zty_Passport/Data/Gibson/gibson_v2
